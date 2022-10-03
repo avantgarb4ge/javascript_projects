@@ -40,3 +40,6 @@ document.write(y);
 var z=9;
 z--;
 document.write(z);
+
+window.alert(Math.random());
+window.alert(Math.random() *50);
