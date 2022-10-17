@@ -1,3 +1,8 @@
 # javascript_projects
 
-This respository will house all my projects utilizing javascript.
+Here are some small projects I made using JavaScript
+
+Projects:
+Pizza Menu
+Tic Tac Toe
+Calculator
